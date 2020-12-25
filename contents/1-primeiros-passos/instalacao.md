@@ -64,7 +64,7 @@ undefined
 Node.js suporta Javascript, então a sua sintaxe é similar ao Javascript que roda no navegador. Portanto se formos checar...
 
 ```bash
-> typeof 10
+> typeof "10"
 String
 > typeof 10
 Number
